@@ -1,8 +1,11 @@
 import './App.css';
+import Navbar from './Components/Navbar';
 
 function App() {
   return (
     <div className='parent'>
+
+      <Navbar/>
       <h1>Hello Jiii</h1>
       <p>Vansh Waldeo</p>
       <p>Internet Speed </p>
