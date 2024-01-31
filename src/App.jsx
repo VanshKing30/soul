@@ -12,6 +12,8 @@ function App() {
       <p>Internet Speed </p>
       <h2>Microsoft is hiring freshers.</h2>
 
+      <Content/>
+
       <p>Github pe code upload krdiya hai , Vaise</p>
 
       <Footer/>
