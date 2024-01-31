@@ -1,5 +1,6 @@
 import './App.css';
 import Navbar from './Components/Navbar';
+import Footer from './Components/Footer';
 
 function App() {
   return (
@@ -12,6 +13,8 @@ function App() {
       <h2>Microsoft is hiring freshers.</h2>
 
       <p>Github pe code upload krdiya hai , Vaise</p>
+
+      <Footer/>
     </div>
   );
 }
