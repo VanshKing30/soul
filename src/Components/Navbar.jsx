@@ -13,6 +13,8 @@ function Navbar(){
             <li>Abhay</li>
             <li>Jayesh</li>
 
+            <p>This is all from me , chalo tata bye bye</p>
+
 
         </div>
     );
