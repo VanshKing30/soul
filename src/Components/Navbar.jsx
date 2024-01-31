@@ -9,6 +9,9 @@ function Navbar(){
 
 
             <h2>This is my Nbvbar!!</h2>
+            <li>Vansh</li>
+            <li>Abhay</li>
+            <li>Jayesh</li>
 
 
         </div>
