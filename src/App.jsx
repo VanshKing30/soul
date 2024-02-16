@@ -1,10 +1,14 @@
-
+import TextEditor from "./Components/TextEditor";
 
 function App(){
 
   return(
 
-    <h1>Text Editor</h1>
+    <div className="Parent">
+      <h1>Text Editor</h1>
+      <TextEditor/>
+    </div>
+
   );
 }
 
